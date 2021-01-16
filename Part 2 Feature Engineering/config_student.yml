@@ -1,0 +1,6 @@
+db_creds:
+    ssh_address: 'yourAddress/IP'
+    ssh_username: 'yourUsername'
+    ssh_password: 'yourPassword'
+    user: 'dbUsername'
+    password: 'dbPassword'
