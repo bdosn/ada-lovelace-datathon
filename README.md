@@ -2,7 +2,7 @@
 
 <strong>Ada Lovelace Datathon 2021</strong> is a part of the <strong>Ada Lovelace Celebration 2021</strong> to foster the enthusiasm of girls in data science. 
 
-[Register Now](https://forms.gle/mAPB5yro8TdD5qxH7)
+[Ada Lovelace Datathon 2021 - click here](https://alc.bdosn.org/datathon/)
 
 ### Workshops
 - Part 1: Descriptive Analysis on Jan 2, 2021 by Sabbir Ahmed
